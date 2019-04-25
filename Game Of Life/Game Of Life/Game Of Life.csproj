@@ -5,7 +5,7 @@
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{6AA0537C-556F-4B09-BC0A-EBF0C78F857C}</ProjectGuid>
-    <OutputType>Exe</OutputType>
+    <OutputType>WinExe</OutputType>
     <RootNamespace>Game_Of_Life</RootNamespace>
     <AssemblyName>Game Of Life</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
