@@ -1,5 +1,5 @@
 # Game Of Life
-Conway's Game Of Life, coded in C# by Daniel Binoy!
+[Conway's Game Of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life), coded in C# by Daniel Binoy!
 This is my first real project in C# for me to learn the language.
 
 # How To Play
@@ -11,7 +11,7 @@ This is my first real project in C# for me to learn the language.
  
  R = fill board with random
 
-# About the Game Of Life
+# About the [Game Of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 The universe of the Game of Life is an infinite, two-dimensional orthogonal grid of square cells, each of which is in one of two possible states, alive or dead, (or populated and unpopulated, respectively). Every cell interacts with its eight neighbours, which are the cells that are horizontally, vertically, or diagonally adjacent. At each step in time, the following transitions occur:
 
 Any live cell with fewer than two live neighbours dies, as if by underpopulation.
